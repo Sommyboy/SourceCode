@@ -1,0 +1,5 @@
+D:\satudia\dino\INO1CD 396459\SourceCode\Test\Test\bin\Debug\Test.dll
+D:\satudia\dino\INO1CD 396459\SourceCode\Test\Test\bin\Debug\Test.pdb
+D:\satudia\dino\INO1CD 396459\SourceCode\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\satudia\dino\INO1CD 396459\SourceCode\Test\Test\obj\Debug\Test.dll
+D:\satudia\dino\INO1CD 396459\SourceCode\Test\Test\obj\Debug\Test.pdb
